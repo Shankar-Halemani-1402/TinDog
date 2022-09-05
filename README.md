@@ -1,5 +1,5 @@
 # TinDog
 
-Test website 
-Learned how to use bootstrap
-Have to learn js
+#### Test website 
+#### Learned how to use bootstrap
+#### Have to learn js
